@@ -6,7 +6,7 @@ In this assignment, we were given preexisting code where the html and css were a
 
 ## Here is a link to my GitHub Pages
 
-
+https://aldwinlub.github.io/password-generator/
 
 ## Screenshots!
 Here is a snippet of the completed password generator and a prompt once the "Generate Password" button has been clicked:
